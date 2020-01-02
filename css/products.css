@@ -1,0 +1,40 @@
+body {
+  background-color:#555;
+}
+
+.navbar-fixed {
+  position: absolute;z-index:999999999;
+}
+
+.section{
+  padding-top: 70px;
+}
+
+#logoTitle{
+  font-family: Brush Script MT;
+  font-size: 50px;
+  background: linear-gradient(330deg, #e05252 0%, #99e052 25%, #52e0e0 50%, #9952e0 75%, #e05252 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+#logo{
+  float: left;
+}
+
+#chill{
+  height:210px;
+}
+
+#infoSide{
+  padding-top: 100px;
+}
+
+#nameSideNav{
+  font-size: 40;
+}
+
+#emeraldCutPair{
+  font-size: 17px;
+}
